@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ricashay
 - 👀 I’m interested in ...coding and learning new things
 - 🌱 I’m currently learning ...the FlipperZero
-- 💞️ I’m looking to collaborate on ...anything inwhich i can utilize this lil tool and any assesories that may help make it better.  
+- 💞️ I’m looking to collaborate on ...anything in which, I can utilize this lil tool and any assesories that may help make it better.  
 - 📫 How to reach me ...here i guess
 
-- 😄 Pronouns: ...
+  😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
